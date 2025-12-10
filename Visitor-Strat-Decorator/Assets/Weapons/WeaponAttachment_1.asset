@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b050d55cee1efd43aeada606b9d0ce9, type: 3}
+  m_Name: WeaponAttachment_1
+  m_EditorClassIdentifier: Assembly-CSharp::Chapter.Decorator.WeaponAttachment
+  rate: 49
+  range: 6.2
+  strength: 14.8
+  cooldown: -4.03
+  attachmentName: Weapon_Attachment_1
+  attachmentPrefab: {fileID: 733213382035220314, guid: 9f4d4ad1b183dbc4187e07638f15d8d7, type: 3}
+  attachmentDescription: The first attachment
